@@ -1,16 +1,17 @@
-h1 {
+body{
 	text-align: center;
+	margin: 0 auto;
 }
 .centro {
 	margin:0px auto;
 	display: block;
 }
 
-table {
+table,td,th {
 	text-align: center;
 	background-color: #f7f9f3;
 	width: 1050px;
-	border: 2px solid #cccccc;
+	border: 1px solid #ccc;
 	font-family: 'Varela Round', sans-serif;
 }
 
